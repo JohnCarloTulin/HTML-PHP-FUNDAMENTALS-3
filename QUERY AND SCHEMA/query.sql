@@ -1,0 +1,10 @@
+insert into bicycle (bicycle_id, model, brand, bicycle_type_id, price, frame_type) values (1, 'Shimano', 'Cannondale', '3', 8924.35, 'steel');
+insert into bicycle (bicycle_id, model, brand, bicycle_type_id, price, frame_type) values (2, 'Maxxis', 'Bianchi', '15', 23711.27, 'carbon fiber');
+insert into bicycle (bicycle_id, model, brand, bicycle_type_id, price, frame_type) values (3, 'Kawasaki', 'GT', '1', 29600.11, 'chromoly');
+insert into bicycle (bicycle_id, model, brand, bicycle_type_id, price, frame_type) values (4, 'Maxxis', 'Diamondback', '13', 20554.56, 'steel');
+insert into bicycle (bicycle_id, model, brand, bicycle_type_id, price, frame_type) values (5, 'Gent', 'Norco', '2', 6772.3, 'aluminum');
+insert into bicycle (bicycle_id, model, brand, bicycle_type_id, price, frame_type) values (6, 'Maxxis', 'Santa Cruz', '4', 19533.8, 'carbon fiber');
+insert into bicycle (bicycle_id, model, brand, bicycle_type_id, price, frame_type) values (7, 'LGX', 'Cannondale', '9', 27745.46, 'aluminum');
+insert into bicycle (bicycle_id, model, brand, bicycle_type_id, price, frame_type) values (8, 'LGX', 'Fuji', '7', 13932.4, 'aluminum');
+insert into bicycle (bicycle_id, model, brand, bicycle_type_id, price, frame_type) values (9, 'Shrek', 'Bianchi', '5', 5924.07, 'steel');
+insert into bicycle (bicycle_id, model, brand, bicycle_type_id, price, frame_type) values (10, 'Brando', 'Fuji', '10', 15335.75, 'carbon fiber');
